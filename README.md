@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vvipwwk&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=IT+Technical+Support;PC+Hardware+Enthusiast;Exploring+Web+Development;Always+Learning+New+Technologies" />
 </p>
 
